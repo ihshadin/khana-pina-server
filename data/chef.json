@@ -1,0 +1,409 @@
+[
+    {
+        "chef_picture": "https://images.pexels.com/photos/4253298/pexels-photo-4253298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chef_name": "Mohammad Ali",
+        "years_of_experience": 10,
+        "num_of_recipes": 20,
+        "likes": 500,
+        "description": "Chef Mohammad Ali is a renowned Bangladeshi chef with over 10 years of experience in cooking Bangladeshi cuisine. He is the head chef at a popular restaurant in Dhaka and has published several cookbooks.",
+        "recipes": [
+            {
+                "recipe_name": "Biriyani",
+                "ingredients": [
+                    "Rice",
+                    "Meat",
+                    "Potatoes",
+                    "Onions",
+                    "Spices"
+                ],
+                "cooking_method": "1. Boil rice in water with spices. 2. Fry meat, potatoes, and onions. 3. Layer rice and meat mixture in a pot. 4. Cook on low heat for 30 mins.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Kacchi",
+                "ingredients": [
+                    "Rice",
+                    "Meat",
+                    "Potatoes",
+                    "Onions",
+                    "Spices"
+                ],
+                "cooking_method": "1. Marinate meat in spices. 2. Layer rice, meat, and potatoes in a pot. 3. Cook on low heat for 2 hours.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fish curry",
+                "ingredients": [
+                    "Fish",
+                    "Onions",
+                    "Tomatoes",
+                    "Spices",
+                    "Oil"
+                ],
+                "cooking_method": "1. Fry onions and tomatoes. 2. Add spices and fish. 3. Cook on medium heat for 20 mins.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Rasgulla",
+                "ingredients": [
+                    "Milk",
+                    "Sugar",
+                    "Lemon juice",
+                    "Rose water",
+                    "Cardamom"
+                ],
+                "cooking_method": "1. Boil milk and lemon juice. 2. Drain curdled milk. 3. Knead milk into balls. 4. Boil sugar syrup with rose water and cardamom. 5. Add milk balls and cook on low heat for 20 mins.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chef_name": "Shirin Alam",
+        "years_of_experience": 15,
+        "num_of_recipes": 6,
+        "description": "Shirin Alam is a renowned chef in Bangladesh, with over 15 years of experience in cooking delicious Bangladeshi cuisine. She has created numerous recipes over the years and is known for her unique twists on classic dishes.",
+        "recipes": [
+            {
+                "recipe_name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "mustard paste",
+                    "green chili",
+                    "turmeric powder",
+                    "salt"
+                ],
+                "cooking_method": "1. Marinate fish with turmeric powder and salt. 2. Heat oil in a pan and add in mustard paste and green chili. 3. Add in fish and cook until browned. 4. Add in water and let simmer until fish is cooked. 5. Serve with rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "coconut",
+                    "sugar",
+                    "milk",
+                    "salt"
+                ],
+                "cooking_method": "1. Mix rice flour and water to form a dough. 2. Make small balls and flatten them. 3. Fill with a mixture of coconut, sugar, and milk. 4. Fold and steam until cooked. 5. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Chingri Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "coconut milk",
+                    "onion",
+                    "ginger paste",
+                    "turmeric powder"
+                ],
+                "cooking_method": "1. Heat oil in a pan and add in onion and ginger paste. 2. Add in prawns and cook until pink. 3. Add in turmeric powder and coconut milk. 4. Let simmer until prawns are cooked. 5. Serve with rice.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Bhuna Khichuri",
+                "ingredients": [
+                    "Rice",
+                    "lentils",
+                    "onion",
+                    "garlic paste",
+                    "cumin powder"
+                ],
+                "cooking_method": "1. Soak rice and lentils for 30 minutes. 2. Heat oil in a pan and add in onion and garlic paste. 3. Add in rice and lentils. 4. Add in water and let cook until tender. 5. Serve with a side of fried eggplant.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Chitol Maacher Muitha",
+                "ingredients": [
+                    "Chitol fish",
+                    "chana dal",
+                    "ginger paste",
+                    "onion",
+                    "green chili"
+                ],
+                "cooking_method": "1. Soak chana dal for 2 hours. 2. Grind chana dal, chitol fish, ginger paste, onion, and green chili into a paste. 3. Form small balls and fry until golden brown. 4. Serve hot with mustard sauce.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "chefPicture": "https://images.pexels.com/photos/8629122/pexels-photo-8629122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Rahima Khatun",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 45,
+        "likes": 1200,
+        "description": "Rahima Khatun is a renowned Bangladeshi chef with over a decade of experience in cooking traditional dishes. She specializes in creating delicious and healthy meals with locally sourced ingredients.",
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": [
+                    "Ilish fish",
+                    "Mustard oil",
+                    "Mustard paste",
+                    "Turmeric",
+                    "Green chili"
+                ],
+                "cookingMethod": "Marinate fish with turmeric and salt. Fry the fish in mustard oil until crispy. In a separate pan, fry mustard paste and green chili. Add water to make the gravy. Add the fish to the gravy and cook for a few minutes.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Morog Polao",
+                "ingredients": [
+                    "Chicken",
+                    "Rice",
+                    "Ghee",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Marinate chicken with yogurt, ginger, garlic, and spices. Fry onion in ghee until brown. Add the chicken and fry until brown. Add rice and fry for a few minutes. Add water and cook until the rice is done.",
+                "rating": 4.0
+            },
+            {
+                "recipeName": "Chingri Bhuna",
+                "ingredients": [
+                    "Shrimp",
+                    "Onion",
+                    "Tomato",
+                    "Cumin",
+                    "Coriander"
+                ],
+                "cookingMethod": "Fry shrimp in oil until brown. In a separate pan, fry onion and cumin until brown. Add tomato and coriander and cook for a few minutes. Add the shrimp and cook for a few more minutes.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Coconut",
+                    "Jaggery",
+                    "Cardamom",
+                    "Salt"
+                ],
+                "cookingMethod": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Bhorta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Tomato",
+                    "Green chili",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chefPicture": "https://images.pexels.com/photos/7488995/pexels-photo-7488995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Ali Haider",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 45,
+        "likes": 1200,
+        "description": "Ali Haider is a renowned Bangladeshi chef with over a decade of experience in cooking traditional dishes. She specializes in creating delicious and healthy meals with locally sourced ingredients.",
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": [
+                    "Ilish fish",
+                    "Mustard oil",
+                    "Mustard paste",
+                    "Turmeric",
+                    "Green chili"
+                ],
+                "cookingMethod": "Marinate fish with turmeric and salt. Fry the fish in mustard oil until crispy. In a separate pan, fry mustard paste and green chili. Add water to make the gravy. Add the fish to the gravy and cook for a few minutes.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Morog Polao",
+                "ingredients": [
+                    "Chicken",
+                    "Rice",
+                    "Ghee",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Marinate chicken with yogurt, ginger, garlic, and spices. Fry onion in ghee until brown. Add the chicken and fry until brown. Add rice and fry for a few minutes. Add water and cook until the rice is done.",
+                "rating": 4.0
+            },
+            {
+                "recipeName": "Chingri Bhuna",
+                "ingredients": [
+                    "Shrimp",
+                    "Onion",
+                    "Tomato",
+                    "Cumin",
+                    "Coriander"
+                ],
+                "cookingMethod": "Fry shrimp in oil until brown. In a separate pan, fry onion and cumin until brown. Add tomato and coriander and cook for a few minutes. Add the shrimp and cook for a few more minutes.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Coconut",
+                    "Jaggery",
+                    "Cardamom",
+                    "Salt"
+                ],
+                "cookingMethod": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Bhorta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Tomato",
+                    "Green chili",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chefPicture": "https://images.pexels.com/photos/8902109/pexels-photo-8902109.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "chefName": "Rahima Khatun",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 45,
+        "likes": 1200,
+        "description": "Rahima Khatun is a renowned Bangladeshi chef with over a decade of experience in cooking traditional dishes. She specializes in creating delicious and healthy meals with locally sourced ingredients.",
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": [
+                    "Ilish fish",
+                    "Mustard oil",
+                    "Mustard paste",
+                    "Turmeric",
+                    "Green chili"
+                ],
+                "cookingMethod": "Marinate fish with turmeric and salt. Fry the fish in mustard oil until crispy. In a separate pan, fry mustard paste and green chili. Add water to make the gravy. Add the fish to the gravy and cook for a few minutes.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Morog Polao",
+                "ingredients": [
+                    "Chicken",
+                    "Rice",
+                    "Ghee",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Marinate chicken with yogurt, ginger, garlic, and spices. Fry onion in ghee until brown. Add the chicken and fry until brown. Add rice and fry for a few minutes. Add water and cook until the rice is done.",
+                "rating": 4.0
+            },
+            {
+                "recipeName": "Chingri Bhuna",
+                "ingredients": [
+                    "Shrimp",
+                    "Onion",
+                    "Tomato",
+                    "Cumin",
+                    "Coriander"
+                ],
+                "cookingMethod": "Fry shrimp in oil until brown. In a separate pan, fry onion and cumin until brown. Add tomato and coriander and cook for a few minutes. Add the shrimp and cook for a few more minutes.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Coconut",
+                    "Jaggery",
+                    "Cardamom",
+                    "Salt"
+                ],
+                "cookingMethod": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Bhorta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Tomato",
+                    "Green chili",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chefPicture": "https://images.pexels.com/photos/6653612/pexels-photo-6653612.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "chefName": "Aklima Begum",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 45,
+        "likes": 1200,
+        "description": "Aklima Begum is a renowned Bangladeshi chef with over a decade of experience in cooking traditional dishes. She specializes in creating delicious and healthy meals with locally sourced ingredients.",
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": [
+                    "Ilish fish",
+                    "Mustard oil",
+                    "Mustard paste",
+                    "Turmeric",
+                    "Green chili"
+                ],
+                "cookingMethod": "Marinate fish with turmeric and salt. Fry the fish in mustard oil until crispy. In a separate pan, fry mustard paste and green chili. Add water to make the gravy. Add the fish to the gravy and cook for a few minutes.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Morog Polao",
+                "ingredients": [
+                    "Chicken",
+                    "Rice",
+                    "Ghee",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "Marinate chicken with yogurt, ginger, garlic, and spices. Fry onion in ghee until brown. Add the chicken and fry until brown. Add rice and fry for a few minutes. Add water and cook until the rice is done.",
+                "rating": 4.0
+            },
+            {
+                "recipeName": "Chingri Bhuna",
+                "ingredients": [
+                    "Shrimp",
+                    "Onion",
+                    "Tomato",
+                    "Cumin",
+                    "Coriander"
+                ],
+                "cookingMethod": "Fry shrimp in oil until brown. In a separate pan, fry onion and cumin until brown. Add tomato and coriander and cook for a few minutes. Add the shrimp and cook for a few more minutes.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Pitha",
+                "ingredients": [
+                    "Rice flour",
+                    "Coconut",
+                    "Jaggery",
+                    "Cardamom",
+                    "Salt"
+                ],
+                "cookingMethod": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Bhorta",
+                "ingredients": [
+                    "Eggplant",
+                    "Onion",
+                    "Tomato",
+                    "Green chili",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
+                "rating": 4.3
+            }
+        ]
+    }
+]
