@@ -170,30 +170,6 @@
                 ],
                 "cooking_method": "Fry shrimp in oil until brown. In a separate pan, fry onion and cumin until brown. Add tomato and coriander and cook for a few minutes. Add the shrimp and cook for a few more minutes.",
                 "rating": 4.2
-            },
-            {
-                "recipe_name": "Pitha",
-                "ingredients": [
-                    "Rice flour",
-                    "Coconut",
-                    "Jaggery",
-                    "Cardamom",
-                    "Salt"
-                ],
-                "cooking_method": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
-                "rating": 4.7
-            },
-            {
-                "recipe_name": "Bhorta",
-                "ingredients": [
-                    "Eggplant",
-                    "Onion",
-                    "Tomato",
-                    "Green chili",
-                    "Mustard oil"
-                ],
-                "cooking_method": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
-                "rating": 4.3
             }
         ]
     },
@@ -240,30 +216,6 @@
                 ],
                 "cooking_method": "Fry shrimp in oil until brown. In a separate pan, fry onion and cumin until brown. Add tomato and coriander and cook for a few minutes. Add the shrimp and cook for a few more minutes.",
                 "rating": 4.2
-            },
-            {
-                "recipe_name": "Pitha",
-                "ingredients": [
-                    "Rice flour",
-                    "Coconut",
-                    "Jaggery",
-                    "Cardamom",
-                    "Salt"
-                ],
-                "cooking_method": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
-                "rating": 4.7
-            },
-            {
-                "recipe_name": "Bhorta",
-                "ingredients": [
-                    "Eggplant",
-                    "Onion",
-                    "Tomato",
-                    "Green chili",
-                    "Mustard oil"
-                ],
-                "cooking_method": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
-                "rating": 4.3
             }
         ]
     },
@@ -392,18 +344,6 @@
                 ],
                 "cooking_method": "Mix rice flour with hot water and salt. Knead the dough. Mix coconut, jaggery, and cardamom to make the filling. Roll the dough and add the filling. Steam the pitha for 10-15 minutes.",
                 "rating": 4.7
-            },
-            {
-                "recipe_name": "Bhorta",
-                "ingredients": [
-                    "Eggplant",
-                    "Onion",
-                    "Tomato",
-                    "Green chili",
-                    "Mustard oil"
-                ],
-                "cooking_method": "Roast eggplant over fire until soft. Mash the eggplant. Fry onion, tomato, and green chili in mustard oil. Add the mashed eggplant and mix well.",
-                "rating": 4.3
             }
         ]
     }
